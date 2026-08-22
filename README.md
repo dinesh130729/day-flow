@@ -6,8 +6,7 @@ A browser-based HR management portal with an HTML interface, JavaScript browser 
 
 - Employee: `EMP-IN-104`, `EMP-IN-105`, or `EMP-IN-106`, with any password
 - Admin: `admin@hr.com` / `admin123`
-
-Then open <https://dayflowhrsodoo.netlify.app>.
+access the website here  <https://dayflowhrsodoo.netlify.app>.
 
 The server creates `dayflow.db` from `schema.sql` on startup and exposes:
 
